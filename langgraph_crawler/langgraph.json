@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "agent": "./crawler.py:graph"
+    },
+    "env": ".env",
+    "image_distro": "wolfi"
+}
